@@ -1,16 +1,32 @@
-## Hi there 👋
+## Welcome to my GitHub Profile 🌿
 
-<!--
-**S-L-A-K-E-R/S-L-A-K-E-R** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+No idea how you arrived here, but be my guest.
 
-Here are some ideas to get you started:
+If you have too much free time, you can see on my profile some projects I've worked on (mostly) when I felt like it.\
+Don't expect groundbreaking source code here, it's mostly a **journal** of my programming journey over my **decade of laziness**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+Beside that, I am a **programming teacher** at engineering schools, thus you will also find some of my class materials on my profile.
+
+For now, I teach mostly:
+* `C`
+* `Rust`
+* `Python`
+* A **bit** of `LLMs`
+
+<br>
+
+* `Excel` & `Power BI`
+* `Data Science`
+
+<br>
+
+<img width="2497" height="827" alt="Luo-XiaoHei_Forest_Banner_v2" src="https://github.com/user-attachments/assets/bdc99b31-bd41-4919-9b22-34d4f39be565" />
+
+<br>
+
+Hope you will like it, or that it can help you in any way.
+
+Take care,\
+~ Slaker
