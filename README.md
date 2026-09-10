@@ -29,4 +29,4 @@ For now, I mostly teach:
 Hope you like it, or that it can help you in some way.
 
 Take care,\
-~ Slaker
+~ SLAKER
