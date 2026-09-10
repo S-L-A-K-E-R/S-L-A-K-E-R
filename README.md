@@ -7,9 +7,9 @@ Don't expect groundbreaking source code here, it's mostly a **journal** of my pr
 
 <br>
 
-Beside that, I am a **programming teacher** at engineering schools, thus you will also find some of my class materials on my profile.
+Besides that, I am a **programming teacher** at engineering schools, so you'll also find some of my class materials here.
 
-For now, I teach mostly:
+For now, I mostly teach:
 * `C`
 * `Rust`
 * `Python`
@@ -26,7 +26,7 @@ For now, I teach mostly:
 
 <br>
 
-Hope you will like it, or that it can help you in any way.
+Hope you like it, or that it can help you in some way.
 
 Take care,\
 ~ Slaker
