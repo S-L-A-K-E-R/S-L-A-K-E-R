@@ -1,13 +1,10 @@
 ## Welcome to my GitHub Profile 🌿
 
-No idea how you arrived here, but be my guest.
-
-If you have too much free time, you can see on my profile some projects I've worked on (mostly) when I felt like it.\
 Don't expect groundbreaking source code here, it's mostly a **journal** of my programming journey over my **decade of laziness**.
 
 <br>
 
-Besides that, I am a **programming teacher** at engineering schools, so you'll also find some of my class materials here.
+Also, I am a **programming teacher** at engineering schools, so you'll also find some of my class materials here.
 
 For now, I mostly teach:
 * `C`
@@ -19,6 +16,11 @@ For now, I mostly teach:
 
 * `Excel` & `Power BI`
 * `Data Science`
+
+<br>
+
+My repos are all made the old fashion way `without AI-generated source codes`.\
+Note that I still use AI for helping me with *ideas*, *design elements* and so on...
 
 <br>
 
