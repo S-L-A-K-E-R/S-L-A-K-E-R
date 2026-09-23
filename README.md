@@ -20,7 +20,7 @@ For now, I mostly teach:
 <br>
 
 My repos are all made the old fashion way `without AI-generated source codes`.\
-Note that I still use AI for helping me with *ideas*, *design elements* and so on...
+Note that I still use AI for helping me with *ideas*, *design elements* and so on... but **never** for raw mindless generated coding.
 
 <br>
 
