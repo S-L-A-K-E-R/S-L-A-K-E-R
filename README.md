@@ -19,10 +19,7 @@ For now, I mostly teach:
 
 <br>
 
-My repos are all made the old fashion way `without AI-generated source codes`.\
-Note that I still use AI for helping me with *ideas*, *design elements* and so on... but **never** for raw mindless generated coding.
-
-<br>
+Except when mentionned, my repos don't contain `ai-code`.
 
 <img width="2497" height="827" alt="Luo-XiaoHei_Forest_Banner_v2" src="https://github.com/user-attachments/assets/bdc99b31-bd41-4919-9b22-34d4f39be565" />
 
