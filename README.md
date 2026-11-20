@@ -19,8 +19,6 @@ For now, I mostly teach:
 
 <br>
 
-Except when mentionned, my repos don't contain `ai-code`.
-
 <img width="2497" height="827" alt="Luo-XiaoHei_Forest_Banner_v2" src="https://github.com/user-attachments/assets/bdc99b31-bd41-4919-9b22-34d4f39be565" />
 
 <br>
